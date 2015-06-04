@@ -5,7 +5,6 @@
   "cordova": {
     "id": "cordova-plugin-geolocation",
     "platforms": [
-      "android",
       "amazon-fireos",
       "ios",
       "blackberry10",
